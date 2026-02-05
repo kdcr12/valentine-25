@@ -148,7 +148,7 @@ function App() {
                 {
                   (document.title =
                     Object.keys(randomValor).length === 0
-                      ? '¿Quieres ser mi San Valentin?'
+                      ? 'Mi melocotoncito delicioso ¿Quieres ser mi San Valentin?'
                       : randomValor.description)
                 }
               </span>
